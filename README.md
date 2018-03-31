@@ -24,3 +24,4 @@ To be able to write the entire app in near-100% JSON markup format, we use two [
 1. [conway.virus.js](conway.virus.js): Generates the game of life sandbox DOM.
 2. [dna.virus.js](dna.virus.js): Re-generates the "DNA" sequence from which the conway's game of life builds itself.
 
+The whole point of `$virus` is that developers can abstract reusable logic into functions that take a JSON object as input and return another JSON as output, thereby "infecting" the original cell. And this is how `cell.js` implements plugins.
