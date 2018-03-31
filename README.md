@@ -8,6 +8,13 @@ The app is powered by [cell.js](https://www.celljs.org), which enables the JSON 
 
 Also it takes advantage of the [$virus](https://github.com/intercellular/cell/blob/develop/VIRUS.md) feature of `cell.js` to further abstract the logic, so that the final application is a pseudo-JSON markup.
 
+
+# Demo
+
+Try out the demo at [https://intercellular.github.io/conway/](https://intercellular.github.io/conway/)
+
+
+
 # How it works
 
 The application is at [index.html](index.html) and is mostly in a JSON format.
