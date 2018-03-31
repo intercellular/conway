@@ -2,7 +2,7 @@
 
 This web app is an attempt at creating a [Conway's game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) from a JSON markup.
 
-The entire app fits in [a single JSON object](https://github.com/intercellular/conway/blob/master/index.html#L22):
+The entire app logic is expressed with [a single declarative JSON object](https://github.com/intercellular/conway/blob/master/index.html#L22):
 
 ![img](json.png)
 
