@@ -1,6 +1,6 @@
 # Conway's Game of Life in JSON
 
-This web app is an attempt at creating a [Conway's game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) from a JSON markup.
+This web app is an attempt at creating a [Conway's game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) from a JSON markup, powered by [cell.js](https://www.celljs.org), a JSON-based web app framework.
 
 The entire app logic is expressed with [a single declarative JSON object](https://github.com/intercellular/conway/blob/master/index.html#L22):
 
