@@ -10,6 +10,10 @@ Also it takes advantage of the [$virus](https://github.com/intercellular/cell/bl
 
 The application is at [index.html](index.html) and is mostly in a JSON format.
 
+The entire app fits in a single JSON object:
+
+![img](json.png)
+
 To facilitate this abstraction we use two [$virus](https://github.com/intercellular/cell/blob/develop/VIRUS.md):
 
 1. [conway.virus.js](conway.virus.js): Generates the game of life sandbox DOM.
